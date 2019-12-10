@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'SVN-Cookies';
+    src: url('SVN-Cookies.eot');
+    src: url('SVN-Cookies.eot?#iefix') format('embedded-opentype'),
+        url('SVN-Cookies.woff2') format('woff2'),
+        url('SVN-Cookies.woff') format('woff'),
+        url('SVN-Cookies.ttf') format('truetype'),
+        url('SVN-Cookies.svg#SVN-Cookies') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Bold.eot');
+    src: url('OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-Bold.woff2') format('woff2'),
+        url('OpenSans-Bold.woff') format('woff'),
+        url('OpenSans-Bold.ttf') format('truetype'),
+        url('OpenSans-Bold.svg#OpenSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UVF Lobster12';
+    src: url('UVFLobster12.eot');
+    src: url('UVFLobster12.eot?#iefix') format('embedded-opentype'),
+        url('UVFLobster12.woff2') format('woff2'),
+        url('UVFLobster12.woff') format('woff'),
+        url('UVFLobster12.ttf') format('truetype'),
+        url('UVFLobster12.svg#UVFLobster12') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SVN-Cookie';
+    src: url('SVN-Cookie.eot');
+    src: url('SVN-Cookie.eot?#iefix') format('embedded-opentype'),
+        url('SVN-Cookie.woff2') format('woff2'),
+        url('SVN-Cookie.woff') format('woff'),
+        url('SVN-Cookie.ttf') format('truetype'),
+        url('SVN-Cookie.svg#SVN-Cookie') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans.eot');
+    src: url('OpenSans.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans.woff2') format('woff2'),
+        url('OpenSans.woff') format('woff'),
+        url('OpenSans.ttf') format('truetype'),
+        url('OpenSans.svg#OpenSans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

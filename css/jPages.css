@@ -1,0 +1,43 @@
+.wrap_paging{
+	text-align: center;
+}
+
+.holder {
+	display: inline-block;
+	margin: 15px 0;
+}
+
+.holder a {
+    font-size: 12px;
+    cursor: pointer;
+    border: 1px solid #f4efef;
+    margin: 0px 2px;
+    padding: 7px 14px;
+    color: #333;
+    background: #fff;
+}
+
+.holder a:hover {
+	background-color: #df2626;
+	color: #fff;
+}
+
+.holder a.jp-previous { margin-right: 15px; }
+.holder a.jp-next { margin-left: 15px; }
+
+.holder a.jp-current, a.jp-current:hover { 
+	background: #df2626;
+	color: #fff;
+}
+
+.holder a.jp-disabled, a.jp-disabled:hover {
+	color: #bbb;
+}
+
+.holder a.jp-current, a.jp-current:hover {
+	cursor: default; 
+	background: #df2626;
+	color: #fff;
+}
+
+.holder span { margin: 0 5px; }
